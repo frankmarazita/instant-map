@@ -1,0 +1,8 @@
+{
+  "short_name": "instant-map",
+  "name": "instant-map",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
